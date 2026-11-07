@@ -19,7 +19,7 @@ export default function HomePage() {
             <span className="italic text-brick">Kyng</span>
           </h1>
           <p className="mt-6 max-w-md text-lg leading-8">
-            Off the record, TraShawn. On the record, a voice that stays in the room.
+            TraShawn. He writes R&amp;B about real relationships.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a href="#listen" className="btn btn-solid">Play I Miss You</a>
@@ -67,17 +67,19 @@ export default function HomePage() {
           </div>
           <div className="space-y-5 text-lg leading-8">
             <p>
-              Tra&apos; Kyng is the name on the music. TraShawn is the name he answers to.
-              The songs are R&amp;B, sung close: <em>I Miss You</em>, <em>Get Away</em>,{" "}
-              <em>Just Being Real</em>, and <em>Titles</em> from the Dymez soundtrack.
+              Tra&apos; Kyng is TraShawn. He is Haitian. He fell in love with singing
+              after high school, got serious about it in 2012, and stayed with it.
             </p>
             <p>
-              He is a singer and a songwriter. That is the work. The gold, the brick,
-              the white turtleneck — that is just how the light hit him.
+              He writes his own songs, and they are about relationships. He would
+              rather tell that story than sing about the club. <em>Titles</em> is
+              him owning where he got one wrong. <em>I Miss You</em>, <em>Get Away</em>,
+              and <em>Just Being Real</em> come from the same place.
             </p>
             <p className="text-mute">
-              Apple Music files him under R&amp;B/Soul, still as Tra&apos; Kyng. This site
-              keeps both names in the same sentence, on purpose.
+              The artist he names is Michael Jackson. The records told a story, and
+              the videos did too. That is what he is reaching for. He acts as well.
+              The singing came first.
             </p>
           </div>
         </div>
